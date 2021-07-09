@@ -1,2 +1,2 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:0db974f58b48b219ab8047e11b481c2bbda52b7a2d54db5ed58e8659748ec125
+From gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:69065cec1c1d57d1b16eb448c1abd895c2c554ef0ec19bedd1c14dc3150d2ff1
 MAINTAINER doop

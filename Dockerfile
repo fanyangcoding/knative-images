@@ -1,2 +1,2 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/domain-mapping@sha256:fafa1afcc9f2c6e79b096ffbc67e14ff3f34e3591d887335811ca15970b3b837
+From gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:81aea5b98d938b3762371e28387d4c3d0709e05d08c44ae56a13d0dfd7dc210a
 MAINTAINER doop

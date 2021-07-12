@@ -1,2 +1,2 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:e65e11bc8711ed619b346f0385de4d266f59dccf0781fe41a416559b85d414ed
+From gcr.io/knative-nightly/knative.dev/operator/cmd/operator@sha256:224265f0a34add59bdd78786593fea1fb17236978bebf60a3f33e2a5672cc71d
 MAINTAINER doop

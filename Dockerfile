@@ -1,2 +1,2 @@
-From gcr.io/knative-nightly/knative.dev/operator/cmd/operator@sha256:224265f0a34add59bdd78786593fea1fb17236978bebf60a3f33e2a5672cc71d
+From gcr.io/knative-releases/knative.dev/serving/cmd/domain-mapping@sha256:fafa1afcc9f2c6e79b096ffbc67e14ff3f34e3591d887335811ca15970b3b837
 MAINTAINER doop

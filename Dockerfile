@@ -1,2 +1,2 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/domain-mapping-webhook@sha256:1335e57427a372d15e8a90a3370eaa6896c9cb3fd7cb6f2a63021cceaea2e8e6
+From gcr.io/knative-samples/helloworld-go
 MAINTAINER doop
